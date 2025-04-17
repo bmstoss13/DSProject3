@@ -6,7 +6,9 @@ In our project, we used Python3 in Jupyter Notebooks to run our code on a Mac co
 - pandas
 - numpy
 - matplotlib
-- 
+- yaml
+- os
+- YOLO from ultralytics
 
 
 ## Map of Documentation
@@ -14,5 +16,5 @@ In our project, we used Python3 in Jupyter Notebooks to run our code on a Mac co
 
 ## Reproducing Results 
 1. Install Python3 and the above packages in Jupyter Notebook on your computer.
-2. Download cleaned_foid.csv from the CSV folder.
+2. Download cleaned_foid.csv from the CSV folder. 
 
