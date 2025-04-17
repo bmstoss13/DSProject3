@@ -1,0 +1,33 @@
+names:
+- Albacore
+- Bigeye tuna
+- Black marlin
+- Blue marlin
+- Great barracuda
+- Human
+- Indo Pacific sailfish
+- Long snouted lancetfish
+- Mahi mahi
+- Mola mola
+- No fish
+- Oilfish
+- Opah
+- Pelagic stingray
+- Pomfret
+- Rainbow runner
+- Roudie scolar
+- Shark
+- Shortbill spearfish
+- Sickle pomfret
+- Skipjack tuna
+- Snake mackerel
+- Striped marlin
+- Swordfish
+- Thresher shark
+- Unknown
+- Wahoo
+- Yellowfin tuna
+nc: 28
+test: C:/Users/Brian/.vscode/DSProject3/images/test
+train: C:/Users/Brian/.vscode/DSProject3/images/train
+val: C:/Users/Brian/.vscode/DSProject3/images/val
