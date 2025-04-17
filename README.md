@@ -6,6 +6,7 @@ In our project, we used Python3 in Jupyter Notebooks to run our code on a Mac co
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - yaml
 - os
 - YOLO from ultralytics
