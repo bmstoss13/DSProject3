@@ -10,7 +10,7 @@ In our project, we used Python3 in JupyterLab in UVA Rivanna to run our code on 
 - yaml
 - os
 - YOLO from ultralytics
-- import train_test_split from sklearn.model_selection 
+- train_test_split from sklearn.model_selection 
 
 
 ## Map of Documentation
